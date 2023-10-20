@@ -6,7 +6,7 @@ def get_wardrobe_items():
 
 def get_space_left(items, item):
     if item == '0':
-        return 0
+        return 250
     
     elif item == '50':
         return 0
